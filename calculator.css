@@ -1,28 +1,25 @@
 .calc{
     color: antiquewhite;
-    margin-left: 500px;
+    margin-left: 5em;
     background-color: whitesmoke;
-    width: 500px;
-    height: 600px;
-}
-.root{
-    width: 100%;
+    width: 31em;
+    height: 60em;
 }
 #screen{
     width: 80%;
     text-align: end;
     font-size: larger;
-    margin-top: 20px;
-    height: 50px;
-    margin-left: 42px;
+    margin-top: 2em;
+    height: 3em;
+    margin-left: 2em;
     pointer-events: none;
 }
 .btn{
-    margin-top: 29px;
+    margin-top: 1em;
     font-size: larger;
-    width: 70px;
-    margin-left: 40px;
-    height: 60px;
+    width: 3em;
+    margin-left: 2em;
+    height: 3em;
 
 }
 
